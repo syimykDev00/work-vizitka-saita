@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background: linear-gradient(111deg, #005A81 0.33%, #00344A 100%) no-repeat center/cover;
+    min-height: 100vh;
+    font-family: Fira Sans, sans-serif;
+}
+
+button {
+    cursor: pointer;
+    transition: .4s;
+    border: none;
+    outline: none;
+}
